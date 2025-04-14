@@ -852,7 +852,6 @@ PRODUCT_PACKAGES += \
     libcom.xiaomi.metadatautils \
     libcom.xiaomi.pluginutils \
     libdeflicker \
-    libdisplayconfig.qti \
     libgf_ca \
     libgf_hal \
     libgoodixhwfingerprint \
